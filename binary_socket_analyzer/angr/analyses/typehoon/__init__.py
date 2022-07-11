@@ -1,2 +1,0 @@
-
-from .typehoon import Typehoon

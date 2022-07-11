@@ -1,2 +1,0 @@
-
-from .propagator import PropagatorAnalysis
