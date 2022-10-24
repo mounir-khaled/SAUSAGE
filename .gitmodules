@@ -1,0 +1,3 @@
+[submodule "SAUSAGE-BigMAC"]
+	path = SAUSAGE-BigMAC
+	url = https://github.com/mounir-khaled/SAUSAGE-BigMAC
